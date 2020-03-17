@@ -1,0 +1,7 @@
+github.com/ParvizBoymurodov/jwt v0.0.0-20200315013417-d664ff5316bd/go.mod h1:Eka8WxQ8ln+vVuPXeGsQkC+osAyhtEVd1+TWZ6kf0F0=
+github.com/ParvizBoymurodov/mux v0.0.0-20200316154414-c8a01efa6a45 h1:QBicpU2i+qIzBOQiVTqqESpIfj0M9gCXHI4XX9thyS0=
+github.com/ParvizBoymurodov/mux v0.0.0-20200316154414-c8a01efa6a45/go.mod h1:8a/hyM4wb2fYbIOCYqvlUGNNurOvHftvk/stQZFNbo4=
+github.com/ParvizBoymurodov/rest v0.0.0-20200317145853-55ccffaa29fd h1:s+YiMi6JBjB+cgP3OfghBiXKJ54ShDmswrFBzWxWT8E=
+github.com/ParvizBoymurodov/rest v0.0.0-20200317145853-55ccffaa29fd/go.mod h1:zBXpgTUfCWDaVtjHSg/cFu6f7+Owu6JzzlWdNPChE7E=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

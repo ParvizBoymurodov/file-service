@@ -1,0 +1,667 @@
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file804.txt
+--WebAppBoundary--
+
+<> 2020-03-17T092102.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file484.txt
+--WebAppBoundary--
+
+<> 2020-03-17T092009.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\go\src\fileservice\par.txt
+--WebAppBoundary--
+
+<> 2020-03-17T091753.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\go\src\fileservice\par.txt
+--WebAppBoundary--
+
+<> 2020-03-17T091626.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\go\src\fileservice\par.txt
+--WebAppBoundary--
+
+<> 2020-03-17T091535.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\go\src\fileservice\par.txt
+--WebAppBoundary--
+
+<> 2020-03-17T091331.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file637.txt
+--WebAppBoundary--
+
+<> 2020-03-17T084948.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file554.txt
+--WebAppBoundary--
+
+<> 2020-03-17T084847.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file471.txt
+--WebAppBoundary--
+
+<> 2020-03-17T084332.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file582.txt
+--WebAppBoundary--
+
+<> 2020-03-17T084258.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file242.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file495.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file222.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file432.txt
+--WebAppBoundary--
+
+<> 2020-03-17T082903.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/html
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file653.txt
+--WebAppBoundary--
+
+<> 2020-03-17T082618.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file370.txt
+--WebAppBoundary--
+
+<> 2020-03-17T081941.200.json
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file52.txt
+--WebAppBoundary--
+
+<> 2020-03-17T075841.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file258.txt
+--WebAppBoundary--
+
+<> 2020-03-17T074743.404.txt
+
+###
+
+POST http://localhost:9997/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file631.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072953.404.txt
+
+###
+
+POST http://localhost:9997/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file174.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072932.404.txt
+
+###
+
+POST http://localhost:9997/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file145.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072923.404.txt
+
+###
+
+POST http://localhost:9997/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file290.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072859.404.txt
+
+###
+
+POST http://0.0.0.0:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file56.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072757.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file110.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072710.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file103.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072606.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file571.txt
+--WebAppBoundary--
+
+<> 2020-03-17T072317.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file155.txt
+--WebAppBoundary--
+
+<> 2020-03-17T071757.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file480.txt
+--WebAppBoundary--
+
+<> 2020-03-17T071653.404.txt
+
+###
+
+DELETE http://localhost:9999
+Authorization: Bearer undefined
+
+<> 2020-03-17T071647.404.txt
+
+###
+
+GET http://localhost:9999/api/users/me
+Authorization: Bearer undefined
+
+<> 2020-03-17T071645.404.txt
+
+###
+
+POST http://localhost:9999/api/tokens
+Content-Type: application/json
+
+{
+  "username": "vasya",
+  "password": "invalid"
+}
+
+<> 2020-03-17T071638.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: application/json
+
+<> 2020-03-17T071635.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file152.txt
+--WebAppBoundary--
+
+<> 2020-03-17T071446.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file11.txt
+--WebAppBoundary--
+
+<> 2020-03-17T071432.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data;
+boundary=WebAppBoundary:
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+<> 2020-03-17T070914.400.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data;
+boundary=WebAppBoundary:
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: application/txt
+
+<> 2020-03-17T070827.400.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data;
+boundary=WebAppBoundary:
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+nack
+
+<> 2020-03-17T070717.400.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data;
+boundary=WebAppBoundary:
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+nack
+
+<> 2020-03-17T070653.400.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file186.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070615.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file225.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070434.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file24.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070342.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file73.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070322-1.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file10.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070322.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file207.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070321.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file3.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070320-1.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file9.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070320.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file5.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070319.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file4.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070318.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file6.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070317.404.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="par.txt"
+Content-Type: text/plain
+
+< C:\Users\Lenovo\AppData\Local\Temp\http_request_input_file7.txt
+--WebAppBoundary--
+
+<> 2020-03-17T070227.404.txt
+
+###
+
