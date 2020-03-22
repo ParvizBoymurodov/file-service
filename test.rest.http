@@ -27,14 +27,12 @@
 ####
 
 
-POST  http://localhost:9999/api/files
+POST  http://localhost:9991/api/files
 Content-Type: multipart/form-data; boundary=WebAppBoundary
 
 --WebAppBoundary
-Content-Disposition: form-data; name="data"; filename="par.txt"
-Content-Type: text/plain
+Content-Disposition: form-data; name="data"; filename="1.jpg"
+Content-Type: image/jpeg
 
-Hello
-
-Hi
+< ./1.jpg
 ###

@@ -37,7 +37,7 @@ func( receiver *server) handleFilesSave() func(responseWriter http.ResponseWrite
 				log.Printf("can't create file: %v", err)
 			}
 
-			uploadedFiles, err = receiver.filesSvc.Save(openFile,contentType)
+			uploadedFiles, err = receiver.filesSvc. Save(openFile,contentType)
 			if err != nil {
 				log.Printf("can't save file: %v", err)
 			}

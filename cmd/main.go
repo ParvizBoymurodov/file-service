@@ -13,7 +13,7 @@ import (
 
 var (
 	host = flag.String("host", "0.0.0.0", "Server host")
-	port = flag.String("port", "9999", "Server port")
+	port = flag.String("port", "9991", "Server port")
 )
 
 const envHost = "HOST"
